@@ -1,16 +1,24 @@
-### Hi there 👋
+### ¡Hola! ¡Soy Ángel Antonio!
 
-<!--
-**DrakeRedfield/DrakeRedfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Full Stack y Mobile Developer, autodidácta y de rápido aprendizaje, siempre perseverante frente a los problemas y con ganas de siempre mejorar e innovar, con grandes aspiraciones laborales como personales.
 
-Here are some ideas to get you started:
+Puedes visitar mi [Landing Page](https://drakeredfield.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías:
+#### FrontEnd
+* HTML5
+* CSS3
+* JS
+* Angular
+
+#### Backend
+* NodeJS
+* Python
+  * Django Framework
+
+#### Mobile Developer
+* Ionic
+
+#### Databases
+* MySQL
+* Postgresql
